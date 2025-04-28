@@ -1,4 +1,4 @@
-# Ex-6-VPC-
+# Ex-6-IAM-
 ## NAME : SUDHAKARAN S
 ## REGNO : 212222220051
 ## AIM
